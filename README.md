@@ -1,7 +1,7 @@
 # Resume-contact
 
-For my projects related to Department of Physics, please contact Prof Dylan Jones
+My projects related to Department of Physics are supervised Prof Dylan Jones.
 
-For my projects related to Sports Analytics, please contact Ming-Chang Tsai
+My projects related to Sports Analytics are supervised Ming-Chang Tsai.
 
-For my projects related to accounting management, please contact Yi Zhao
+My projects related to accounting management are under the managment of Yi Zhao.
